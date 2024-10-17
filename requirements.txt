@@ -1,0 +1,10 @@
+alpaca-eval
+fire
+numpy
+openai
+pandas
+requests
+torch
+tqdm
+transformers
+vllm
